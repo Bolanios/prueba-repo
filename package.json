@@ -1,0 +1,16 @@
+{
+  "name": "prueba-repo",
+  "version": "1.0.0",
+  "description": "Prueba de hacer un paquete randoms mensajes\r dosh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "prueba-repo": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
